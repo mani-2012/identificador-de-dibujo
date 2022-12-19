@@ -3,7 +3,7 @@ body{
     color: white;
 }
 button{
-    background-color: rgb(147, 239, 55);
+    background-color: rgb(76, 137, 14);
     font-size: medium ;
 }
 h1{
@@ -14,4 +14,9 @@ h1{
 }
 #papa{
     float: right;
+}
+canvas{
+    border-style:dotted;
+    border-color:rgb(255, 250, 102);
+    border-width: 18px;
 }
